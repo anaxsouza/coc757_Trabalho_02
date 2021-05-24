@@ -8,7 +8,7 @@ import random
 
 # Creating Matrix system
 
-for n in range(2000, 2001):
+for n in range(10000, 10001):
     kd = 1
     rows_ab = int(kd+1)
     A = np.zeros((n, n))

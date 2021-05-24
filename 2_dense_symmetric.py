@@ -7,7 +7,7 @@ import time
 import random
 
 # Creating Matrix system
-for n in range(2000, 2001):
+for n in range(10000, 10001):
     n_ap = int(n*(n+1)/2)
     A = np.zeros((n, n))
     b = np.zeros(n)

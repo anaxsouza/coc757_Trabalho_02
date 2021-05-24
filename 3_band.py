@@ -8,7 +8,7 @@ import random
 
 # Creating Matrix system
 
-for n in range(2000, 2001):
+for n in range(10000, 10001):
     kl = 1
     ku = 1
     rows_ab = int(2*kl+ku+1)
