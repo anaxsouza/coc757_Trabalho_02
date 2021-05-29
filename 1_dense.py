@@ -8,7 +8,7 @@ import random
 
 # Creating Matrix system
 
-for n in range(1000, 1001):
+for n in range(10000, 10001):
     A = np.zeros((n,n))
     b = np.zeros(n)
 
